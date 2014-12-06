@@ -1,6 +1,10 @@
 Proximal.jl
 -----------
 
+# NOTICE
+
+**This package is unmaintained. Its reliability is not guaranteed.**
+
 # Introduction
 
 This is a translation to Julia of the `proximal` code by Parikh and Boyd. See
